@@ -401,7 +401,7 @@ This project provides practical experience with:
 
 ## Author
 
-**Dev Chauhan**
+**Dev**
 
 Machine Learning & Data Science Intern  
 Datheon — Batch 01
